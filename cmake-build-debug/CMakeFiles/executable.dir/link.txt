@@ -1,1 +1,0 @@
-/usr/bin/c++   -std=c++11 -O1 -fsanitize=address -Wall -Wextra -Wno-unused-command-line-argument -Wshadow -Wnon-virtual-dtor -pedantic -g  -rdynamic CMakeFiles/executable.dir/source/source.cpp.o  -o executable  -fsanitize=address libgtest.a -lpthread 

@@ -1,2 +1,0 @@
-/home/nikita/lab-02-if-else-for-while/cmake-build-debug/_3rdParty/Hunter/toolchain/_builds/CMakeFiles/rebuild_cache.dir
-/home/nikita/lab-02-if-else-for-while/cmake-build-debug/_3rdParty/Hunter/toolchain/_builds/CMakeFiles/edit_cache.dir
