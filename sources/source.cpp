@@ -2,7 +2,6 @@
 // Created by nikita on 25.09.2020.
 //
 #include <iostream>
-#include <math.h>
 
 int main() {
     //Задание 1
@@ -66,12 +65,12 @@ int main() {
         abs(position1.first - position2.first) == abs(position2.second - position1.second)) {
         std::cout << "Ферзь угрожает" << std::endl;
     }
-    if (position1.second + 1 == position2.second && position1.first == position2.first ||
-        position1.second + 2 == position2.second && position1.first == position2.first) {
+    if ((position1.second + 1 == position2.second && position1.first == position2.first) ||
+        (position1.second + 2 == position2.second && position1.first == position2.first)) {
         std::cout << "Пешка дойдет" << std::endl;
     }
-    if (position1.second + 1 == position2.second && position1.first - 1 == position2.first ||
-        position1.second + 1 == position2.second && position1.first + 1 == position2.first) {
+    if ((position1.second + 1 == position2.second && position1.first - 1 == position2.first) ||
+        (position1.second + 1 == position2.second && position1.first + 1 == position2.first)) {
         std::cout << "Пешка ест" << std::endl;
     }
 
@@ -123,6 +122,4 @@ int main() {
     }
     std::cout << k << std::endl;
     k = 1;
-
-
 }

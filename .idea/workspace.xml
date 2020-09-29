@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="template" targetName="template" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5f1ecb6a-96ce-4837-8971-32fba3d0f896" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitmodules" beforeDir="false" afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gtest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gtest.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/source.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/sources/source.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/polly" beforeDir="false" afterPath="$PROJECT_DIR$/tools/polly" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iAyH5jidRuVLRnLiH1KBvQn6hP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tests" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tests" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="template" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="template" TARGET_NAME="template" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="template" RUN_TARGET_NAME="template">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f1ecb6a-96ce-4837-8971-32fba3d0f896" name="Default Changelist" comment="" />
+      <created>1601364600294</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601364600294</updated>
+      <workItem from="1601364605551" duration="150000" />
+      <workItem from="1601364782971" duration="1620000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601366337433">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1601366337433" />
+    <state x="535" y="253" key="#template" timestamp="1601365783425">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="535" y="253" key="#template/0.0.1680.1050@0.0.1680.1050" timestamp="1601365783425" />
+    <state x="423" y="127" key="CommitChangelistDialog2" timestamp="1601366461284">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="423" y="127" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1601366461284" />
+    <state x="100" y="100" width="1480" height="850" key="DiffContextDialog" timestamp="1601365199094">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="100" y="100" width="1480" height="850" key="DiffContextDialog/0.23.1680.947@0.23.1680.947" timestamp="1601365199094" />
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom" timestamp="1601366413926">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1601366413926" />
+    <state width="1638" height="295" key="GridCell.Tab.0.center" timestamp="1601366413924">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1601366413924" />
+    <state width="1638" height="295" key="GridCell.Tab.0.left" timestamp="1601366413923">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1601366413923" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right" timestamp="1601366413925">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1601366413925" />
+    <state x="614" y="243" key="RollbackChangesDialog" timestamp="1601365027416">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="614" y="243" key="RollbackChangesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1601365027416" />
+    <state x="440" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601366465316">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="253" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1601366465316" />
+    <state x="517" y="357" key="com.intellij.ide.util.TipDialog" timestamp="1601364665453">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="517" y="357" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1601364665453" />
+    <state x="586" y="245" key="git4idea.branch.GitSmartOperationDialog" timestamp="1601364832657">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="586" y="245" key="git4idea.branch.GitSmartOperationDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1601364832657" />
+  </component>
+</project>
